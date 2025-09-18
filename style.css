@@ -1,0 +1,23 @@
+html, body {
+    margin: 0;
+    padding: 0;
+    max-width: 100%;
+    overflow-x: hidden;
+    font-family: "Raleway", sans-serif;
+}
+
+.lots__cards {
+    display: flex;
+    overflow-x: auto;
+    gap: 16px;
+}
+
+.page {
+    max-width: 1100px;
+    margin: 0 auto;
+}
+
+header, .cover, .lots, .about {
+    max-width: 1100px;
+    margin: 0 auto;
+}
