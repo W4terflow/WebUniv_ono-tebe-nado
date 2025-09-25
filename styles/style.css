@@ -8,3 +8,30 @@ header {
     width: 100%;
     max-width: 1100px;
 }
+
+.Logo {
+    background: url("../images/logo-black.svg") no-repeat center/contain;
+}
+.Logo .Vector {
+    display: none;
+}
+
+.LogoWhite {
+    background: url("../images/logo-white.svg") no-repeat center/contain;
+}
+.LogoWhite .Vector {
+    display: none;
+}
+
+.Vk {
+    /*flex: 0 0 auto;*/
+    background: url(../images/vk.svg) no-repeat center / contain !important;
+}
+
+.Pinterest {
+    background: url("../images/pinterest.svg") no-repeat center/contain !important;
+}
+
+.Yt {
+    background: url("../images/yt.svg") no-repeat center/contain !important;
+}
