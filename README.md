@@ -1,1 +1,1 @@
-https://github.com/W4terflow/WebUniv_ono-tebe-nado
+https://github.com/W4terflow/posmotri-v-okno-ad
